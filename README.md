@@ -20,7 +20,7 @@ Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente 
 
 ## GitHub Status
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diulytofalo&count_private=true&show_icons=true&theme=bear)](https://github.com/diulytofalo)<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diulytofalo&count_private=true&include_all_commits=true&show_icons=true&theme=bear)](https://github.com/diulytofalo)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diulytofalo&layout=compact&show_icons=true&theme=bear)](https://github.com/diulytofalo) <br><br>
 
 ## Contato
