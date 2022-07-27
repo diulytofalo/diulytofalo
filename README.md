@@ -28,3 +28,6 @@ Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente 
 [![Gmail](https://user-images.githubusercontent.com/106192001/180938411-427d5007-9c0c-4f22-b71b-2801757d454f.png)](mailto:diulytofalo@gmail.com)
 [![Whatsapp](https://user-images.githubusercontent.com/106192001/180938479-0a7010da-d103-44ac-a964-e861730b51cb.png)](https://wa.me/5564993442586)
 [![Linkedin](https://user-images.githubusercontent.com/106192001/180938521-dcb11f8d-0f13-461a-ad51-0f964978a149.png)](https://www.linkedin.com/in/diulytofalo/)
+<br><br>
+
+![Snake animation](https://github.com/diulytofalo/diulytofalo/blob/output/github-contribution-grid-snake.svg)
