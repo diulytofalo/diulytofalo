@@ -11,7 +11,6 @@ Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente 
 ![JavaScript](https://user-images.githubusercontent.com/106192001/180927458-591f8e28-6f1d-44de-af43-f5126256aca0.png)
 ![Python](https://user-images.githubusercontent.com/106192001/180927813-6528b889-1e3d-401c-a85a-a4dfd2991a6f.png)
 
-
 #### ● Tecnologias que pretendo estudar:
 
 ![Git](https://user-images.githubusercontent.com/106192001/180927589-a0335bbb-c551-4c86-82e4-d0f485455157.png)
@@ -21,13 +20,21 @@ Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente 
 
 ## GitHub Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diulytofalo&count_private=true&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diulytofalo&layout=compact&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats) <br><br>
-
+<div>
+  <a href="https://github.com/diulytofalo">
+  <img alt="Cartão de Status do Github" src="https://github-readme-stats.vercel.app/api?username=diulytofalo&count_private=true&show_icons=true&theme=bear"/> <br>
+  <img alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulytofalo&layout=compact&show_icons=true&theme=bear"/>
+</div> <br>
 
 ## Contato
 
 [![Gmail](https://user-images.githubusercontent.com/106192001/180938411-427d5007-9c0c-4f22-b71b-2801757d454f.png)](mailto:diulytofalo@gmail.com)
 [![Whatsapp](https://user-images.githubusercontent.com/106192001/180938479-0a7010da-d103-44ac-a964-e861730b51cb.png)](https://wa.me/5564993442586)
 [![Linkedin](https://user-images.githubusercontent.com/106192001/180938521-dcb11f8d-0f13-461a-ad51-0f964978a149.png)](https://www.linkedin.com/in/diulytofalo/)
+
+<div>
+  <img alt="Gmail" src="https://user-images.githubusercontent.com/106192001/180938411-427d5007-9c0c-4f22-b71b-2801757d454f.png" 
+  <a href="mailto:diulytofalo@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img alt="Whatsapp" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Linkedin" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
