@@ -20,21 +20,11 @@ Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente 
 
 ## GitHub Status
 
-<div>
-  <a href="https://github.com/diulytofalo">
-  <img alt="Cartão de Status do Github" src="https://github-readme-stats.vercel.app/api?username=diulytofalo&count_private=true&show_icons=true&theme=bear"/> <br>
-  <img alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulytofalo&layout=compact&show_icons=true&theme=bear"/>
-</div> <br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diulytofalo&count_private=true&show_icons=true&theme=bear)](https://github.com/diulytofalo)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diulytofalo&layout=compact&show_icons=true&theme=bear)](https://github.com/diulytofalo) <br><br>
 
 ## Contato
 
-<div>
-  <a href="mailto:diulytofalo@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img alt="Gmail" src="https://user-images.githubusercontent.com/106192001/180938411-427d5007-9c0c-4f22-b71b-2801757d454f.png">
-    
-  <a href="https://wa.me/5564993442586" target="_blank" rel="noopener noreferrer">
-  <img alt="Whatsapp" src="https://user-images.githubusercontent.com/106192001/180938479-0a7010da-d103-44ac-a964-e861730b51cb.png">
-    
-  <a href="https://www.linkedin.com/in/diulytofalo/" target="_blank" rel="noopener noreferrer">
-  <img alt="Linkedin" src="https://user-images.githubusercontent.com/106192001/180938521-dcb11f8d-0f13-461a-ad51-0f964978a149.png">
-</div>
+[![Gmail](https://user-images.githubusercontent.com/106192001/180938411-427d5007-9c0c-4f22-b71b-2801757d454f.png)](mailto:diulytofalo@gmail.com)
+[![Whatsapp](https://user-images.githubusercontent.com/106192001/180938479-0a7010da-d103-44ac-a964-e861730b51cb.png)](https://wa.me/5564993442586)
+[![Linkedin](https://user-images.githubusercontent.com/106192001/180938521-dcb11f8d-0f13-461a-ad51-0f964978a149.png)](https://www.linkedin.com/in/diulytofalo/)
