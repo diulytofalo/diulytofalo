@@ -15,8 +15,8 @@ Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente 
 
 ![Git](https://user-images.githubusercontent.com/106192001/180927589-a0335bbb-c551-4c86-82e4-d0f485455157.png)
 ![Sass](https://user-images.githubusercontent.com/106192001/180927696-ffaba009-067d-461b-afe4-732b429d1298.png)
-![React](https://user-images.githubusercontent.com/106192001/180927763-778b94ee-55d8-4d82-9a20-33bac5bf1aa3.png)
-![NodeJS](https://user-images.githubusercontent.com/106192001/180927735-cbccc723-5286-4d72-9c11-2571e19b9cee.png) <br><br>
+![NodeJS](https://user-images.githubusercontent.com/106192001/180927735-cbccc723-5286-4d72-9c11-2571e19b9cee.png)
+![React](https://user-images.githubusercontent.com/106192001/180927763-778b94ee-55d8-4d82-9a20-33bac5bf1aa3.png) <br><br>
 
 ## GitHub Status
 
