@@ -1,22 +1,20 @@
 ## Bio 🤗
 
-Me chamo Diuly, sou uma estudante de desenvolvimento web recém apaixonada pela área. ❤️
+Me chamo Diuly, sou uma estudante de licenciatura em química que se aventurou pelo caminho dos jogos educacionais e se apaixonou. ❤️
 
-Pretendo evoluir meus estudos nas tecnologias front-end, expandindo futuramente para back-end e me tornando uma desenvolvedora full-stack. 🤩
+Comecei a estudar programação no final da graduação, e atualmente estou desenvolvendo uma simulação para o ensino de química com Unity 3D para o meu projeto de conclusão de curso. 🤩
+
+Meu próximo passo será iniciar o mestrado e me especializar em produção de material didático digital. 😁
 
 #### ● Tecnologias que estou estudando:
 
-![HTML](https://user-images.githubusercontent.com/106192001/180926506-1cb1e640-ed6f-47e1-8f3b-bfc9bb18c011.png)
-![CSS](https://user-images.githubusercontent.com/106192001/180926535-868acb1c-9304-49fb-b1da-36b98c59efaa.png)
-![JavaScript](https://user-images.githubusercontent.com/106192001/180927458-591f8e28-6f1d-44de-af43-f5126256aca0.png)
-![Python](https://user-images.githubusercontent.com/106192001/180927813-6528b889-1e3d-401c-a85a-a4dfd2991a6f.png)
+![Unity](https://user-images.githubusercontent.com/106192001/217997466-eaf11b0a-4fc6-4632-97b1-976a17d05a48.png) 
+![C#](https://user-images.githubusercontent.com/106192001/217997016-5c5fa8ce-7d7a-4a26-bdd7-a31ab6846965.png) <br><br>
 
 #### ● Tecnologias que pretendo estudar:
 
-![Git](https://user-images.githubusercontent.com/106192001/180927589-a0335bbb-c551-4c86-82e4-d0f485455157.png)
-![Sass](https://user-images.githubusercontent.com/106192001/180927696-ffaba009-067d-461b-afe4-732b429d1298.png)
-![NodeJS](https://user-images.githubusercontent.com/106192001/180927735-cbccc723-5286-4d72-9c11-2571e19b9cee.png)
-![React](https://user-images.githubusercontent.com/106192001/180927763-778b94ee-55d8-4d82-9a20-33bac5bf1aa3.png) <br><br>
+![Blender 3D](https://user-images.githubusercontent.com/106192001/217996421-72a86cf3-3358-4599-98a2-4ad3e299f5cb.png) 
+![Fusion 360](https://user-images.githubusercontent.com/106192001/217996522-022ff72e-7080-4f43-a306-0b6748d66622.png) <br><br>
 
 ## GitHub Status
 
