@@ -13,7 +13,6 @@ Meu próximo passo será iniciar o mestrado e me especializar em produção de m
 
 #### ● Tecnologias que pretendo estudar:
 
-![Blender 3D](https://user-images.githubusercontent.com/106192001/217996421-72a86cf3-3358-4599-98a2-4ad3e299f5cb.png) 
 ![Fusion 360](https://user-images.githubusercontent.com/106192001/217996522-022ff72e-7080-4f43-a306-0b6748d66622.png) <br><br>
 
 ## GitHub Status
