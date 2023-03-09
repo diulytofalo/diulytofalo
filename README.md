@@ -1,6 +1,6 @@
 ## Bio 🤗
 
-Me chamo Diuly, sou uma estudante de licenciatura em química que se aventurou pelo caminho dos jogos educacionais e se apaixonou. ❤️
+Me chamo Diuly, sou uma estudante de licenciatura em química que se aventurou pelo caminho dos jogos e simuladores educacionais e se apaixonou. ❤️
 
 Comecei a estudar programação no final da graduação, e atualmente estou desenvolvendo uma simulação para o ensino de química com Unity 3D para o meu projeto de conclusão de curso. 🤩
 
